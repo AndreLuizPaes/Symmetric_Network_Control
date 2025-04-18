@@ -1,3 +1,5 @@
+# Symmetric_Network_Control
+
 This repository contains information regarding the controllability analysis and control design of symmetric spin networks. The work in this repository is inspired by the following papers:
 
 Wang, Xiaoting, Peter Pemberton-Ross, and Sophie G. Schirmer. "Symmetry and subspace controllability for spin networks with a single-node control." IEEE transactions on automatic control 57.8 (2012): 1945-1956.
